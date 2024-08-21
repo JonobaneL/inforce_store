@@ -1,0 +1,82 @@
+{
+  "products": [
+    {
+      "name": "Chair AMF З А-02",
+      "count": "3",
+      "price": "3122",
+      "imageUrl": "https://content.rozetka.com.ua/goods/images/big/178167405.jpg",
+      "size": {
+        "width": 48,
+        "height": 48
+      },
+      "weight": "120kg",
+      "comments": [],
+      "id": "chair1"
+    },
+    {
+      "id": "chair2",
+      "imageUrl": "https://content1.rozetka.com.ua/goods/images/big/393361989.jpg",
+      "name": "Chair Nowy Nicole",
+      "count": 10,
+      "size": {
+        "width": 45,
+        "height": 90
+      },
+      "weight": "100kg",
+      "price": 31.99,
+      "comments": []
+    },
+    {
+      "name": "Chair GT RACER",
+      "count": 5,
+      "price": 42,
+      "imageUrl": "https://content2.rozetka.com.ua/goods/images/big/219510468.jpg",
+      "size": {
+        "width": 45,
+        "height": 45
+      },
+      "weight": "130kg",
+      "comments": [],
+      "id": "chair3"
+    },
+    {
+      "id": "chair4",
+      "imageUrl": "https://content2.rozetka.com.ua/goods/images/big/368618523.jpg",
+      "name": "Chair Doros",
+      "count": 15,
+      "size": {
+        "width": 50,
+        "height": 76
+      },
+      "weight": "115kg",
+      "price": 39.99,
+      "comments": []
+    },
+    {
+      "id": "chair5",
+      "imageUrl": "https://content2.rozetka.com.ua/goods/images/big/426579526.jpg",
+      "name": "Special4You",
+      "count": 9,
+      "size": {
+        "width": 55,
+        "height": 95
+      },
+      "weight": "140kg",
+      "price": 45,
+      "comments": []
+    },
+    {
+      "id": "chair1724253440113",
+      "name": "Chair GT RACER X-D10",
+      "count": "12",
+      "price": "24",
+      "imageUrl": "https://content1.rozetka.com.ua/goods/images/big/244308300.jpg",
+      "size": {
+        "width": "38",
+        "height": "38"
+      },
+      "weight": "100kg",
+      "comments": []
+    }
+  ]
+}
